@@ -1,7 +1,7 @@
 
 
 
-**jderosa16/jderosa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - I’m a Business Systems Analyst working for a large IT services company.  Some teams in my company have begun using GitHub for CI/CD, and I'm trying to set up deployment pipelines for my team (I would have a dev from my organization help me, but it's a resource issue - isn't it always).  
 - I'm studying for my Github Foundations exam, and have been experimenting with some basic workflows on my company's GitHub account, but have been unable to find a workflow which does what I'm looking for - a pipeline which can deploy the latest version of an SSRS .rdl to an SSRS/Power BI server.
